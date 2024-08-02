@@ -1,5 +1,5 @@
 # CS50W-wiki
-Project 1 - Design a Wikipedia-like online encyclopedia.
+Project 1 - Design a Wikipedia-like online encyclopedia, using [`Django`](https://www.djangoproject.com/).
 
 From course [CS50’s Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript).
 
